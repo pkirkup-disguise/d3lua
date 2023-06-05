@@ -1,6 +1,6 @@
 # d3lua
 
-This repository contains a Lua script that uses the `socket.http` and `dkjson` modules to send a GET request to an API endpoint and parse the JSON response.
+This repository contains a Lua script that uses the `socket.http` and `dkjson` modules to talk to the d3 APIs and print the response in a command prompt.
 
 ## Dependencies
 
